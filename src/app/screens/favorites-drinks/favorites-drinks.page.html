@@ -1,0 +1,29 @@
+<ion-content [fullscreen]="true">
+  <div class="header">
+    <h1>Favorites</h1>
+  </div>
+
+  <div class="spazio" *ngIf="favorites"></div>
+  
+  <div class="foodList" *ngIf="favorites">
+    <div class="card" *ngFor="let i of favorites.data">
+      <img (click)="goProfileDrink(i)" src="{{i.image}}"/>
+
+      <div class="cardContent">
+        <h3 class="title">{{i.name}}</h3>
+        <h2 class="subtitle">€ {{i.price}}</h2>
+      </div>
+
+      <ion-buttons>
+        <ion-button>
+          <ion-icon slot="icon-only" name="add"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+    </div>
+  </div>
+
+  <div class="empty-cart" *ngIf="!favorites">
+    <ion-icon name="heart"></ion-icon>
+    <p>La lista è vuota</p>
+  </div>
+</ion-content>

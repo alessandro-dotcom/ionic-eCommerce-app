@@ -1,0 +1,32 @@
+<ion-content [fullscreen]="true">
+  <div class="header">
+    <ion-buttons>
+      <ion-button routerLink="/tabs">
+        <ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons>
+      <ion-button (click)="clickHeart(drink)">
+        <ion-icon slot="icon-only" [name]="heartButton"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </div>
+
+  <div class="card">
+    <div class="image">
+      <img src="{{drink.image}}"/>
+    </div>
+
+    <div class="card-content">
+      <div class="card-title">
+        <h1 class="ion-no-margin">{{drink.name}}</h1>
+        <p class="ion-no-margin">€ {{drink.price}}</p>
+      </div>
+
+      <div class="about">
+        <h1>Istruzioni</h1>
+        <p>{{drink.instructions}}</p>
+      </div>  
+    </div>
+  </div>
+</ion-content>

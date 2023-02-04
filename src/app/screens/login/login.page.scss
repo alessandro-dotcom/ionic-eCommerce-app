@@ -1,0 +1,93 @@
+ion-content {
+    --background: #876c94;
+    position: relative;
+  
+    .contenitore {
+        height: 85%;
+        width: 100%;
+        background: #fff;
+        position: absolute;
+        bottom: 0;
+        border-radius: 3rem 3rem 0 0;
+        padding: 2rem;
+
+        .card {
+            background: #f3f3f3;
+            width: 100%;
+            box-shadow: none;
+            border-radius: 3rem;
+            text-align: center;
+    
+            ion-input {
+                color: #876c94;
+                font-size: 1.4rem;
+                font-weight: 600;
+            }
+        }
+
+        .card-title{
+            margin-top: 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 3rem;
+            text-align: center;
+
+            h1 {
+                text-align: center;
+                font-size: 3rem;
+                color: #1d1d1d;
+                font-weight: 700;
+            }
+        }
+
+        .info {
+            margin-top: 20px;
+
+            h1 {
+                text-align: center;
+                font-weight: 600;
+            }
+        }
+    }
+}
+
+.btn1 {
+    margin-top: 35px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    --box-shadow: none;
+    --border-radius: 1.8rem;
+    --background: #876c94;
+    color: #fff;
+
+    text-transform: initial;
+    font-size: 1.2rem;
+    font-weight: 600;
+    height: 70px;
+}
+
+.btn2 {  
+    margin-top: 20px;
+    margin-bottom: 35px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    --box-shadow: none;
+    --border-radius: 3rem;
+    --background: #fff;
+    color: #876c94;
+    border: 2px solid #876c94;
+    border-radius: 3rem;
+
+
+    text-transform: initial;
+    font-size: 1.2rem;
+    font-weight: 600;
+    height: 40px;
+}

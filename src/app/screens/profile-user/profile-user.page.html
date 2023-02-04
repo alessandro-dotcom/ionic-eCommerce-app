@@ -1,0 +1,36 @@
+<ion-content [fullscreen]="true">
+  <div class="contenitore">
+      <div class="image">
+        <img src="https://cdn1.iconfinder.com/data/icons/instagram-ui-colored/48/JD-17-512.png"/>
+      </div>
+  
+      <div class="card-content">
+        <div class="card-title">
+          <h1 class="ion-no-margin">Frodo Baggins</h1>
+        </div>
+
+        <div class="info">
+          <h1>E-mail</h1>
+            <div class="card">
+              <ion-input type="email" [(ngModel)]="email"></ion-input>
+            </div>
+        </div>
+  
+        <div class="info">
+          <h1>Address</h1>
+            <div class="card">
+              <ion-input [(ngModel)]="address"></ion-input>
+            </div>
+        </div>
+
+        <ion-button class="btn1" (click)="update(email, address)">
+          Update
+        </ion-button>
+
+        <ion-button class="btn2" (click)="logout()">
+          Esci
+        </ion-button>
+      </div>
+    </div>
+  </ion-content>
+  

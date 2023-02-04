@@ -1,0 +1,136 @@
+ion-content {
+    .header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 1rem;
+        margin-top: 1.5rem;
+    
+        h1 {
+          font-size: 3rem;
+          font-weight: 600;
+          color: #1d1d1d;
+          margin: 0;
+        }
+      }
+
+      ion-item-sliding {
+        margin-bottom: 2rem;
+        overflow: hidden;
+    
+        ion-item {
+            --padding-start: 0;
+            --inner-padding-end: 0;
+            border-radius: 25px;
+        }
+    
+        ion-item-options {
+            border: 2px solid #f3f3f3;
+            border-radius: 25px;
+            overflow: hidden;
+            background: #fff;
+    
+            ion-item-option {
+                background: #fff;
+            }
+        }
+    }
+
+    .empty-cart {
+        margin-top: 250px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #c7c7c7;
+
+        ion-icon {
+            font-size: 8rem;
+        }
+
+        p {
+            font-size: 1.8rem;
+        }
+    }
+
+    ion-button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        --box-shadow: none;
+        --border-radius: 1.8rem;
+        --background: #876c94;
+        color: #fff;
+    
+        text-transform: initial;
+        font-size: 1.2rem;
+        font-weight: 600;
+        height: 70px;
+
+        margin-bottom: 70px;
+    }
+}
+
+.card-item {
+    background: #f3f3f3;
+    padding: 1.5rem 1rem;
+    border-radius: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin-left: 5%;
+    position: relative;
+
+    .image {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        margin-right: 1.2rem;
+        position: absolute;
+        left: -5%;
+        top: 50%;
+        transform: translateY(-50%);
+        box-shadow: 10px 10px 10px 0px #c5c5c5;
+    }
+
+    img {
+        border-radius: 2.5rem;
+        width: 100px;
+    }
+
+    .description{
+        flex: 1;
+        margin-left: 20%;
+        display: flex;
+        justify-content: space-between;
+
+        h3 {
+            font-weight: 600;
+            color: #1f1f1f;
+        }
+
+        p {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #876c94;
+            margin: 0.5rem 0;
+        }
+    }
+}
+
+.contatore {
+    font-weight: 600;
+    color: #1d1d1d;
+    text-align: center;
+}
+
+.spazio {
+    height: 42px;
+      
+    --box-shadow:none;
+    --background: #fff;
+  
+    padding: 0;
+    margin-bottom: 2rem;
+}

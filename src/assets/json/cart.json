@@ -1,0 +1,34 @@
+{ "data": [
+    {
+        "idDrink": "44",
+        "name": "Blue Mountain",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Old-fashioned glass",
+        "instructions": "In uno shaker riempito a metà con cubetti di ghiaccio, unire tutti gli ingredienti.Filtrare in un bicchiere vecchio stile quasi riempito con cubetti di ghiaccio.Agitare bene.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/bih7ln1582485506.jpg",
+        "price": "17.18"
+    },
+    {
+        "idDrink": "45",
+        "name": "Bluebird",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Cocktail glass",
+        "instructions": "In un mixing glass riempito a metà con ghiaccio tritato, unisci il gin, il triple sec, il Curacao e il bitter.Mescolare bene.Filtrare in una coppetta da cocktail e guarnire con la scorza di limone e la ciliegia.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/5jhyd01582579843.jpg",
+        "price": "17.3"
+    },
+    {
+        "idDrink": "47",
+        "name": "Boomerang",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Cocktail glass",
+        "instructions": "In un mixing glass riempito a metà con cubetti di ghiaccio, unire il gin, il vermouth, il bitter e il liquore al maraschino.Mescolare bene.Filtrare in una coppetta da cocktail e guarnire con la ciliegia.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/3m6yz81504389551.jpg",
+        "price": "19.17"
+    }
+]
+}
+    

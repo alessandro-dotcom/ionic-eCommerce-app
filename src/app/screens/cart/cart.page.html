@@ -1,0 +1,39 @@
+<ion-content [fullscreen]="true">
+  <div class="header">
+    <h1>Cart</h1>
+  </div>
+
+  <div class="spazio" *ngIf="cart"></div>
+
+  <ion-list lines="none" *ngIf="cart">
+    <ion-item-sliding *ngFor="let i of cart.data">
+      <ion-item>
+        <div class="card-item">
+          <div class="image">
+            <img src="{{i.image}}"/>
+          </div>
+      
+          <div class="description">
+            <h3>{{i.name}}</h3>
+            <p>€ {{i.price}}</p>
+          </div>
+        </div>
+      </ion-item>
+      
+      <ion-item-options slide="end">
+        <ion-item-option>
+          <ion-icon name="trash-outline" size="large" color="danger"></ion-icon>
+        </ion-item-option>
+      </ion-item-options>
+    </ion-item-sliding>
+  </ion-list>
+
+  <ion-button *ngIf="cart">
+    Paga
+  </ion-button>
+
+  <div class="empty-cart" *ngIf="!cart">
+    <ion-icon name="cart"></ion-icon>
+    <p>Il carrello è vuoto</p>
+  </div>
+</ion-content>

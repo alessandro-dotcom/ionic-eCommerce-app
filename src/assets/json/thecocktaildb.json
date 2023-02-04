@@ -1,0 +1,503 @@
+{ "data": [
+{
+    "idDrink": "1",
+    "name": "Mojito",
+    "category": "Cocktail",
+    "alcoholic": "1",
+    "glass": "Highball glass",
+    "instructions": "Pestare le foglie di menta con lo zucchero e il succo di lime.\r\nAggiungere una spruzzata di acqua di seltz e riempi il bicchiere con ghiaccio tritato.\r\nVersare il rum e riempire con acqua di seltz.\r\nGuarnire con una fetta di lime, servire con una cannuccia.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/metwgh1606770327.jpg",
+    "price": "19.18"
+},
+{
+    "idDrink": "2",
+    "name": "Old Fashioned",
+    "category": "Cocktail",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Mettere la zolletta di zucchero nel bicchiere vecchio stile e saturare con il bitter, aggiungere un goccio di acqua naturale.\r\nPestare finché non si scioglie.\r\nRiempi il bicchiere con cubetti di ghiaccio e aggiungi il whisky.\r\nGuarnire con una scorza d'arancia e una ciliegina al maraschino.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vrwquq1478252802.jpg",
+    "price": "7.13"
+},
+{
+    "idDrink": "3",
+    "name": "Long Island Tea",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Highball glass",
+    "instructions": "Unisci tutti gli ingredienti (tranne la cola) e versa il ghiaccio in un bicchiere highball. Aggiungi la spruzzata di cola per il colore. Decorare con una fetta di limone e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/nkwr4c1606770558.jpg",
+    "price": "11.5"
+},
+{
+    "idDrink": "4",
+    "name": "Negroni",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Mescolare nel bicchiere con ghiaccio, guarnire e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/qgdu971561574065.jpg",
+    "price": "19.1"
+},
+{
+    "idDrink": "5",
+    "name": "Whiskey Sour",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Shakerare con ghiaccio.Filtrare in un bicchiere freddo, guarnire e servire.Se servito \"On the rocks\", filtra gli ingredienti in un bicchiere vecchio stile pieno di ghiaccio.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/hbkfsh1589574990.jpg",
+    "price": "18.3"
+},
+{
+    "idDrink": "6",
+    "name": "Dry Martini",
+    "category": "Cocktail",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Dritto: Versare tutti gli ingredienti nel mixing glass con cubetti di ghiaccio. Mescolare bene. Filtrare in una coppetta da cocktail Martini ghiacciata. Spremi l'olio della scorza di limone sulla bevanda o guarnisci con l'oliva.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/6ck9yi1589574317.jpg",
+    "price": "12.16"
+},
+{
+    "idDrink": "7",
+    "name": "Daiquiri",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Versare tutti gli ingredienti nello shaker con cubetti di ghiaccio.Filtrare in una coppetta da cocktail ghiacciata. Agitare bene",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/mrz9091589574515.jpg",
+    "price": "15.13"
+},
+{
+    "idDrink": "8",
+    "name": "Margarita",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Strofina il bordo del bicchiere con la fetta di lime per far aderire il sale.\r\nAvere cura di inumidire solo il bordo esterno e cospargere di sale.\r\nIl sale dovrebbe presentarsi alle labbra del bevitore e non mescolarsi mai al cocktail.\r\nShakerare gli altri ingredienti con ghiaccio, quindi versarli delicatamente nel bicchiere.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/5noda61589575158.jpg",
+    "price": "12.5"
+},
+{
+    "idDrink": "9",
+    "name": "Manhattan",
+    "category": "Cocktail",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Mescolate su ghiaccio, filtrate in un bicchiere freddo, guarnite e servite.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/yk70e31606771240.jpg",
+    "price": "10.5"
+},
+{
+    "idDrink": "10",
+    "name": "Moscow Mule",
+    "category": "Punch \/ Party Drink",
+    "alcoholic": "1",
+    "glass": "Copper Mug",
+    "instructions": "Unisci la vodka e la ginger beer in un bicchiere highball pieno di ghiaccio.\r\nAggiungi il succo di lime.\r\nMescola delicatamente.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/3pylqc1504370988.jpg",
+    "price": "20.19"
+},
+{
+    "idDrink": "11",
+    "name": "After Dinner Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti (eccetto uno spicchio di lime) con ghiaccio e filtrare in una coppetta da cocktail.Aggiungere lo spicchio di lime e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vtytxq1483387578.jpg",
+    "price": "14.4"
+},
+{
+    "idDrink": "12",
+    "name": "After Supper Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/quyxwu1483387610.jpg",
+    "price": "13.15"
+},
+{
+    "idDrink": "13",
+    "name": "Alabama Slammer",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Highball glass",
+    "instructions": "Versare tutti gli ingredienti (tranne il succo di limone) sul ghiaccio in un bicchiere highball.Mescolate, aggiungete un goccio di succo di limone e servite.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/jntghf1606771886.jpg",
+    "price": "6.9"
+},
+{
+    "idDrink": "14",
+    "name": "Alaska Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Mescolare tutti gli ingredienti con ghiaccio, filtrare il contenuto in un bicchiere da cocktail.Aggiungere una noce di limone e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/wsyryt1483387720.jpg",
+    "price": "15.7"
+},
+{
+    "idDrink": "15",
+    "name": "Alexander",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio e filtrare il contenuto in un bicchiere da cocktail. Cospargere di noce moscata e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/0clus51606772388.jpg",
+    "price": "7.16"
+},
+{
+    "idDrink": "16",
+    "name": "Brandy Alexander",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Whiskey Glass",
+    "instructions": "Shakerare tutti gli ingredienti (tranne la noce moscata) con ghiaccio e filtrare il contenuto in una coppetta da cocktail. Cospargere di noce moscata e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/mlyk1i1606772340.jpg",
+    "price": "15.16"
+},
+{
+    "idDrink": "17",
+    "name": "Alfie Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Unire e scuotere tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/ypxsqy1483387829.jpg",
+    "price": "15.3"
+},
+{
+    "idDrink": "18",
+    "name": "Algonquin",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Unire e scuotere tutti gli ingredienti con ghiaccio, filtrare il contenuto in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/uwryxx1483387873.jpg",
+    "price": "13.18"
+},
+{
+    "idDrink": "19",
+    "name": "Allegheny",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti (tranne la buccia di limone) con ghiaccio e filtrare in una coppetta da cocktail.Completare con la scorza di limone e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/uwvyts1483387934.jpg",
+    "price": "18.5"
+},
+{
+    "idDrink": "20",
+    "name": "Allies Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Mescolare tutti gli ingredienti con ghiaccio, filtrare il contenuto in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/qvprvp1483388104.jpg",
+    "price": "7.18"
+},
+{
+    "idDrink": "21",
+    "name": "Almeria",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "In uno shaker riempito a metà con cubetti di ghiaccio, unire tutti gli ingredienti.Agitare bene.Filtrare in un bicchiere da cocktail.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/rwsyyu1483388181.jpg",
+    "price": "5"
+},
+{
+    "idDrink": "22",
+    "name": "Almond Joy",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/xutuqs1483388296.jpg",
+    "price": "9.13"
+},
+{
+    "idDrink": "23",
+    "name": "Amaretto And Cream",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare bene con ghiaccio tritato, filtrare il contenuto in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/dj8n0r1504375018.jpg",
+    "price": "11.1"
+},
+{
+    "idDrink": "24",
+    "name": "Amaretto Mist",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Aggiungere lo spicchio di lime e servire.(Uno spicchio di limone può essere sostituito con il lime, se si preferisce.)Versare l'amaretto in un bicchiere vecchio stile su ghiaccio tritato.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/utpxxq1483388370.jpg",
+    "price": "14.2"
+},
+{
+    "idDrink": "25",
+    "name": "Amaretto Rose",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Collins glass",
+    "instructions": "Versare l'amaretto e il succo di lime sul ghiaccio in un bicchiere Collins.Riempi con la soda club e servi.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/3jm41q1493069578.jpg",
+    "price": "9.7"
+},
+{
+    "idDrink": "26",
+    "name": "Amaretto Stinger",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare bene gli ingredienti con ghiaccio tritato, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vvop4w1493069934.jpg",
+    "price": "12.6"
+},
+{
+    "idDrink": "27",
+    "name": "Amaretto Tea",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Pousse cafe glass",
+    "instructions": "Versare il tè caldo in un bicchiere pousse-cafe, usando un cucchiaio in vetro per evitare che si spezzi. Coprire con panna montata fredda e servire.Aggiungere l'amaretto, ma non mescolare",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/b7qzo21493070167.jpg",
+    "price": "11.3"
+},
+{
+    "idDrink": "28",
+    "name": "Angel Face",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio e filtrare il contenuto in un bicchiere da cocktail.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vaukir1606772580.jpg",
+    "price": "12.3"
+},
+{
+    "idDrink": "29",
+    "name": "Applecar",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/sbffau1504389764.jpg",
+    "price": "8.9"
+},
+{
+    "idDrink": "30",
+    "name": "Apricot Lady",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "In uno shaker riempito a metà con cubetti di ghiaccio, unire il rum, il brandy di albicocche, il triple sec, il succo di limone e l'albume. Guarnire con la fetta d'arancia. Filtrare in un bicchiere vecchio stile quasi pieno di cubetti di ghiaccio. Agitare bene",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/7ityp11582579598.jpg",
+    "price": "19.19"
+},
+{
+    "idDrink": "31",
+    "name": "Archbishop",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "In un bicchiere vecchio stile quasi riempito di cubetti di ghiaccio, unisci tutti gli ingredienti.Mescolare bene.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/4g6xds1582579703.jpg",
+    "price": "18.6"
+},
+{
+    "idDrink": "32",
+    "name": "Arise My Love",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Champagne flute",
+    "instructions": "Metti la crema di menta in un flute da champagne.Riempi con champagne ghiacciato e servi.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/wyrrwv1441207432.jpg",
+    "price": "8.9"
+},
+{
+    "idDrink": "33",
+    "name": "Arthur Tompkins",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Whiskey sour glass",
+    "instructions": "In uno shaker riempito a metà con cubetti di ghiaccio, unisci il gin, il Grand Marnier e il succo di limone.Filtrare in un bicchiere e guarnire con la scorza di limone.Agitare bene.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/7onfhz1493067921.jpg",
+    "price": "20.19"
+},
+{
+    "idDrink": "34",
+    "name": "Artillery",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Mescolare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/g1vnbe1493067747.jpg",
+    "price": "5.7"
+},
+{
+    "idDrink": "35",
+    "name": "Balmoral",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "In un mixing glass riempito a metà con cubetti di ghiaccio, unire tutti gli ingredienti. Filtrare in un bicchiere da cocktail.Mescolare bene.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vysuyq1441206297.jpg",
+    "price": "13.13"
+},
+{
+    "idDrink": "36",
+    "name": "Banana Daiquiri",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Champagne flute",
+    "instructions": "Versare tutti gli ingredienti nello shaker con cubetti di ghiaccio. Agitare bene. Filtrare in una coppetta da cocktail ghiacciata.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/k1xatq1504389300.jpg",
+    "price": "18.11"
+},
+{
+    "idDrink": "37",
+    "name": "Bermuda Highball",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Highball glass",
+    "instructions": "Versare brandy, gin e vermouth secco in un bicchiere highball su cubetti di ghiaccio.Riempi con acqua gassata e mescola.Aggiungere la scorza di limone e servire.(Ginger ale può essere sostituito con acqua di seltz, se si preferisce.)",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/qrvtww1441206528.jpg",
+    "price": "12.1"
+},
+{
+    "idDrink": "38",
+    "name": "Black Russian",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Versare gli ingredienti in un bicchiere vecchio stile pieno di cubetti di ghiaccio. Mescola delicatamente.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/8oxlqf1606772765.jpg",
+    "price": "18.3"
+},
+{
+    "idDrink": "39",
+    "name": "Blackthorn",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Mescolare il prugnolo e il vermouth con ghiaccio e filtrare in un bicchiere da cocktail. Aggiungere la scorza di limone e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/dgj92f1616098672.jpg",
+    "price": "17.2"
+},
+{
+    "idDrink": "40",
+    "name": "Bloody Maria",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Shakerare tutti gli ingredienti (eccetto la fetta di limone) con ghiaccio tritato e filtrare in un bicchiere vecchio stile su cubetti di ghiaccio.Aggiungere la fetta di limone e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/yz0j6z1504389461.jpg",
+    "price": "8.5"
+},
+{
+    "idDrink": "41",
+    "name": "Bloody Mary",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "Mescolando delicatamente, versare tutti gli ingredienti nel bicchiere highball.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/t6caa21582485702.jpg",
+    "price": "9.2"
+},
+{
+    "idDrink": "42",
+    "name": "Blue Lagoon",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Highball glass",
+    "instructions": "Versare la vodka e il curacao in un bicchiere highball. Aggiungi cubetti di ghiaccio. Riempi con la limonata, guarnisci con la ciliegia e servi.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/5wm4zo1582579154.jpg",
+    "price": "12.17"
+},
+{
+    "idDrink": "43",
+    "name": "Blue Margarita",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Strofinare il bordo del bicchiere da cocktail con succo di lime. Immergere il bordo nel sale grosso. Shakerare tequila, blue curacao e succo di lime con ghiaccio, filtrare nel bicchiere bordato di sale e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/bry4qh1582751040.jpg",
+    "price": "10.12"
+},
+{
+    "idDrink": "44",
+    "name": "Blue Mountain",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "In uno shaker riempito a metà con cubetti di ghiaccio, unire tutti gli ingredienti.Filtrare in un bicchiere vecchio stile quasi riempito con cubetti di ghiaccio.Agitare bene.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/bih7ln1582485506.jpg",
+    "price": "17.18"
+},
+{
+    "idDrink": "45",
+    "name": "Bluebird",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "In un mixing glass riempito a metà con ghiaccio tritato, unisci il gin, il triple sec, il Curacao e il bitter.Mescolare bene.Filtrare in una coppetta da cocktail e guarnire con la scorza di limone e la ciliegia.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/5jhyd01582579843.jpg",
+    "price": "17.3"
+},
+{
+    "idDrink": "46",
+    "name": "Bobby Burns Cocktail",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Aggiungere la scorza di limone e servire.Mescolare tutti gli ingredienti (tranne la buccia di limone) con ghiaccio e filtrare in una coppetta da cocktail.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/km6se51484411608.jpg",
+    "price": "10.13"
+},
+{
+    "idDrink": "47",
+    "name": "Boomerang",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "In un mixing glass riempito a metà con cubetti di ghiaccio, unire il gin, il vermouth, il bitter e il liquore al maraschino.Mescolare bene.Filtrare in una coppetta da cocktail e guarnire con la ciliegia.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/3m6yz81504389551.jpg",
+    "price": "19.17"
+},
+{
+    "idDrink": "48",
+    "name": "Boston Sidecar",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Cocktail glass",
+    "instructions": "Shakerare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/qzs5d11504365962.jpg",
+    "price": "17"
+},
+{
+    "idDrink": "49",
+    "name": "Boston Sour",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Whiskey sour glass",
+    "instructions": "Shakerare il succo di limone, lo zucchero a velo, il whisky miscelato e l'albume con ghiaccio tritato e filtrare in un bicchiere da whisky sour.Aggiungere la fetta di limone, guarnire con la ciliegia e servire.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/kxlgbi1504366100.jpg",
+    "price": "16.17"
+},
+{
+    "idDrink": "50",
+    "name": "Classic Old-Fashioned",
+    "category": "Ordinary Drink",
+    "alcoholic": "1",
+    "glass": "Old-fashioned glass",
+    "instructions": "In un bicchiere vecchio stile, mescola il bitter e l'acqua nella zolletta di zucchero. Riempite quasi il bicchiere di cubetti di ghiaccio e aggiungete il bourbon. Servire con un bastoncino di zucchero. Guarnire con la fetta d'arancia e la ciliegia.",
+    "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/w8cxqv1582485254.jpg",
+    "price": "19.14"
+}
+]
+}

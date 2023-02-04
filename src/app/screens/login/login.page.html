@@ -1,0 +1,27 @@
+<ion-content [fullscreen]="true">
+    <div class="contenitore">    
+        <div class="card-content">
+          <div class="card-title">
+            <h1 class="ion-no-margin">Benvenuto!</h1>
+          </div>
+  
+          <div class="info">
+            <h1>E-mail</h1>
+              <div class="card">
+                <ion-input type="email" maxlength="30" [(ngModel)]="email"></ion-input>
+              </div>
+          </div>
+  
+          <div class="info">
+            <h1>Password</h1>
+              <div class="card">
+                <ion-input type="password" maxlength="20" [(ngModel)]="password"></ion-input>
+              </div>
+          </div>
+  
+          <ion-button class="btn1" (click)='login()'>
+            Accedi
+          </ion-button>
+        </div>
+      </div>
+</ion-content>

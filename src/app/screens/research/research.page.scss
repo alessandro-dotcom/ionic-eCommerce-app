@@ -1,0 +1,94 @@
+ion-content {
+  --padding-start: 2rem;
+  --padding-end: 2rem;
+  
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+  
+    h1 {
+      font-size: 3rem;
+      font-weight: 600;
+      color: #1d1d1d;
+      margin: 0;
+    }
+  }
+}
+  
+  .foodList {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    width: 100%;
+    height: 200px;
+    padding: 0.5rem 0.5rem;
+    background: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    border-radius: 2.5rem;
+    margin-bottom: 1.5rem;
+  
+    .cardContent {
+      text-align: center;
+  
+      .title {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #1d1d1d;
+        margin-top: 0.5rem;
+        margin-bottom: 0;
+      }
+  
+      .subtitle{
+        font-size: 1rem;
+        font-weight: 600;
+        color: #876c94;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+    }
+  
+    ion-buttons {
+      position: absolute;
+      bottom: -1rem;
+      left: 50%;
+      transform: translateX(-50%);
+  
+      ion-button{
+        --background:#876c94;
+        font-weight: 700;
+        color: #fff;
+        width: 40px;
+        height: 40px;
+  
+        --padding-start: 0;
+        --padding-end: 0;
+        --padding-top: 0;
+        --padding-bottom: 0;
+      }
+    }
+  }
+  
+  img {
+    border-radius: 2.5rem;
+    width: 100px;
+  }
+  
+ion-searchbar {
+  --box-shadow:none;
+  --background: #f3f3f3;
+  --border-radius: 2.5rem;
+  
+  padding: 0;
+  margin-bottom: 2rem;
+}

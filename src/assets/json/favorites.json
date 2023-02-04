@@ -1,0 +1,34 @@
+{ "data": [
+    {
+        "idDrink": "34",
+        "name": "Artillery",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Cocktail glass",
+        "instructions": "Mescolare tutti gli ingredienti con ghiaccio, filtrare in una coppetta da cocktail e servire.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/g1vnbe1493067747.jpg",
+        "price": "5.7"
+    },
+    {
+        "idDrink": "35",
+        "name": "Balmoral",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Cocktail glass",
+        "instructions": "In un mixing glass riempito a metà con cubetti di ghiaccio, unire tutti gli ingredienti. Filtrare in un bicchiere da cocktail.Mescolare bene.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/vysuyq1441206297.jpg",
+        "price": "13.13"
+    },
+    {
+        "idDrink": "36",
+        "name": "Banana Daiquiri",
+        "category": "Ordinary Drink",
+        "alcoholic": "1",
+        "glass": "Champagne flute",
+        "instructions": "Versare tutti gli ingredienti nello shaker con cubetti di ghiaccio. Agitare bene. Filtrare in una coppetta da cocktail ghiacciata.",
+        "image": "https:\/\/www.thecocktaildb.com\/images\/media\/drink\/k1xatq1504389300.jpg",
+        "price": "18.11"
+    }
+]
+}
+    
